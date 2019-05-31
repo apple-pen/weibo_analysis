@@ -57,6 +57,3 @@ analysis
 - [financial_entity_construction](https://github.com/jasonhavenD/financial_entity_construction)
 - [networkx](http://networkx.github.io/)
 
-### Contributer
-
-**社交网络小组成员**
